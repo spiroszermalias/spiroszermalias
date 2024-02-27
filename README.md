@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spiros!</h1>
 <h3 align="center">A passionate backend developer from Greece</h3>
 
-- 🔭 I’m currently working on **ERP<->Ecommerce integrations & Laravel**
+- 🔭 I’m currently working on **ERP <-> Ecommerce integrations & Laravel apps**
 
 - 🌱 I’m currently learning **Go**
 
