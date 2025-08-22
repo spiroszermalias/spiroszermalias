@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spiros!</h1>
-- 🔭 I’m currently working on **ERP <-> Ecommerce integrations and WP plugin developement** - 📫 How to reach me **me _ spiroszermalias.com**
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect</h3>
 <p align="left">
     <a href="https://twitter.com/szermalias" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="szermalias" height="30" width="40" />
