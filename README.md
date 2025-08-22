@@ -3,6 +3,9 @@
 <h3 align="left">Technologies & Tools:</h3>
 <p align="left">
     <!-- Fancy / modern AI & automation -->
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
     <a href="https://claude.ai/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/111483320?s=200&v=4" alt="claude" width="40" height="40" />
     </a>
