@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spiros!</h1>
 
-<h3 align="left">Connect</h3>
-<p align="left">
-    <a href="https://twitter.com/szermalias" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="szermalias" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/spiros-zermalias/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spiros-zermalias/" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/https://www.facebook.com/spiroszermalias" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/spiroszermalias" height="30" width="40" />
-    </a>
-</p>
 <h3 align="left">Technologies & Tools:</h3>
 <p align="left">
     <!-- Fancy / modern AI & automation -->
@@ -81,5 +69,18 @@
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40" />
+    </a>
+</p>
+
+<h3 align="left">Connect</h3>
+<p align="left">
+    <a href="https://twitter.com/szermalias" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="szermalias" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/spiros-zermalias/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spiros-zermalias/" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/https://www.facebook.com/spiroszermalias" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/spiroszermalias" height="30" width="40" />
     </a>
 </p>
