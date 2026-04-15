@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spiros!</h1>
 
 <h3 align="left">Technologies & Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex">
     <!-- Fancy / modern AI & automation -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
