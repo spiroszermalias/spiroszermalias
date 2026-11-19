@@ -94,9 +94,11 @@ Claude Code a lot, with project documentation it has to follow, and I review wha
 
 ## Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,php,js,nodejs,bash,linux,nginx,redis,mysql,sqlite,docker,cloudflare,wordpress,grafana,selenium,git,githubactions&perline=17" alt="Python, PHP, JavaScript, Node.js, Bash, Linux, nginx, Redis, MySQL, SQLite, Docker, Cloudflare, WordPress, Grafana, Selenium, Git, GitHub Actions">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,php,go,js,nodejs,laravel,wordpress,linux,bash,nginx,docker,cloudflare,redis,mysql,sqlite,grafana,selenium,git,githubactions&perline=19&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,php,go,js,nodejs,laravel,wordpress,linux,bash,nginx,docker,cloudflare,redis,mysql,sqlite,grafana,selenium,git,githubactions&perline=19&theme=light">
+  <img alt="Python, PHP, Go, JavaScript, Node.js, Laravel, WordPress, Linux, Bash, nginx, Docker, Cloudflare, Redis, MySQL, SQLite, Grafana, Selenium, Git, GitHub Actions" src="https://skillicons.dev/icons?i=py,php,go,js,nodejs,laravel,wordpress,linux,bash,nginx,docker,cloudflare,redis,mysql,sqlite,grafana,selenium,git,githubactions&perline=19&theme=light">
+</picture>
 
 Plus Plesk and CloudLinux administration, REST and SOAP APIs, k6 and n8n.
 
