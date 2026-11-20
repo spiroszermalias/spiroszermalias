@@ -34,8 +34,6 @@ each site starts in shadow mode until I switch it on.
 
 In production it has cut attack traffic by about 70% on average.
 
-<p align="center"><img src="assets/phrouros-dashboard.png" alt="Phrouros Grafana dashboard during an attack: enforcing state, composite score against the escalation threshold, and traffic signals" width="92%"></p>
-
 ### Redis/APCu Object Cache
 A WordPress object cache with three layers. <br><sub>PHP 8.1, Redis, APCu, PHPUnit, PHPStan, Docker</sub>
 
